@@ -1,0 +1,14 @@
+D:\Programming\CS\Upr2\Upr2\bin\Debug\net8.0\Upr2.exe
+D:\Programming\CS\Upr2\Upr2\bin\Debug\net8.0\Upr2.deps.json
+D:\Programming\CS\Upr2\Upr2\bin\Debug\net8.0\Upr2.runtimeconfig.json
+D:\Programming\CS\Upr2\Upr2\bin\Debug\net8.0\Upr2.dll
+D:\Programming\CS\Upr2\Upr2\bin\Debug\net8.0\Upr2.pdb
+D:\Programming\CS\Upr2\Upr2\obj\Debug\net8.0\Upr2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\CS\Upr2\Upr2\obj\Debug\net8.0\Upr2.AssemblyInfoInputs.cache
+D:\Programming\CS\Upr2\Upr2\obj\Debug\net8.0\Upr2.AssemblyInfo.cs
+D:\Programming\CS\Upr2\Upr2\obj\Debug\net8.0\Upr2.csproj.CoreCompileInputs.cache
+D:\Programming\CS\Upr2\Upr2\obj\Debug\net8.0\Upr2.dll
+D:\Programming\CS\Upr2\Upr2\obj\Debug\net8.0\refint\Upr2.dll
+D:\Programming\CS\Upr2\Upr2\obj\Debug\net8.0\Upr2.pdb
+D:\Programming\CS\Upr2\Upr2\obj\Debug\net8.0\Upr2.genruntimeconfig.cache
+D:\Programming\CS\Upr2\Upr2\obj\Debug\net8.0\ref\Upr2.dll

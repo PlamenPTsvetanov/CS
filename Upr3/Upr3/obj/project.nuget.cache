@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1WUxibsNdcbFxtbJzeAEiZyXe++PJlRaHBypZIAusW8/tjNfbct4f0ZkUHlcR+6GlVxK+LC3YGxCBHczbHdFlg==",
+  "success": true,
+  "projectFilePath": "D:\\Programming\\CS\\Upr3\\Upr3\\Upr3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\plame\\.nuget\\packages\\htmlagilitypack\\1.11.60\\htmlagilitypack.1.11.60.nupkg.sha512"
+  ],
+  "logs": []
+}

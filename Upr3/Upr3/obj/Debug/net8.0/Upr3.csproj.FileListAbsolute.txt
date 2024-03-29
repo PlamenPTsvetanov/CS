@@ -1,0 +1,17 @@
+D:\Programming\CS\Upr3\Upr3\obj\Debug\net8.0\Upr3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\CS\Upr3\Upr3\obj\Debug\net8.0\Upr3.AssemblyInfoInputs.cache
+D:\Programming\CS\Upr3\Upr3\obj\Debug\net8.0\Upr3.AssemblyInfo.cs
+D:\Programming\CS\Upr3\Upr3\obj\Debug\net8.0\Upr3.csproj.CoreCompileInputs.cache
+D:\Programming\CS\Upr3\Upr3\bin\Debug\net8.0\Upr3.exe
+D:\Programming\CS\Upr3\Upr3\bin\Debug\net8.0\Upr3.deps.json
+D:\Programming\CS\Upr3\Upr3\bin\Debug\net8.0\Upr3.runtimeconfig.json
+D:\Programming\CS\Upr3\Upr3\bin\Debug\net8.0\Upr3.dll
+D:\Programming\CS\Upr3\Upr3\bin\Debug\net8.0\Upr3.pdb
+D:\Programming\CS\Upr3\Upr3\obj\Debug\net8.0\Upr3.dll
+D:\Programming\CS\Upr3\Upr3\obj\Debug\net8.0\refint\Upr3.dll
+D:\Programming\CS\Upr3\Upr3\obj\Debug\net8.0\Upr3.pdb
+D:\Programming\CS\Upr3\Upr3\obj\Debug\net8.0\Upr3.genruntimeconfig.cache
+D:\Programming\CS\Upr3\Upr3\obj\Debug\net8.0\ref\Upr3.dll
+D:\Programming\CS\Upr3\Upr3\bin\Debug\net8.0\HtmlAgilityPack.dll
+D:\Programming\CS\Upr3\Upr3\obj\Debug\net8.0\Upr3.csproj.AssemblyReference.cache
+D:\Programming\CS\Upr3\Upr3\obj\Debug\net8.0\Upr3.csproj.Up2Date

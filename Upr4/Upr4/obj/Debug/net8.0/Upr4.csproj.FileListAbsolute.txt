@@ -1,0 +1,14 @@
+D:\Programming\CS\Upr4\Upr4\bin\Debug\net8.0\Upr4.exe
+D:\Programming\CS\Upr4\Upr4\bin\Debug\net8.0\Upr4.deps.json
+D:\Programming\CS\Upr4\Upr4\bin\Debug\net8.0\Upr4.runtimeconfig.json
+D:\Programming\CS\Upr4\Upr4\bin\Debug\net8.0\Upr4.dll
+D:\Programming\CS\Upr4\Upr4\bin\Debug\net8.0\Upr4.pdb
+D:\Programming\CS\Upr4\Upr4\obj\Debug\net8.0\Upr4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\CS\Upr4\Upr4\obj\Debug\net8.0\Upr4.AssemblyInfoInputs.cache
+D:\Programming\CS\Upr4\Upr4\obj\Debug\net8.0\Upr4.AssemblyInfo.cs
+D:\Programming\CS\Upr4\Upr4\obj\Debug\net8.0\Upr4.csproj.CoreCompileInputs.cache
+D:\Programming\CS\Upr4\Upr4\obj\Debug\net8.0\Upr4.dll
+D:\Programming\CS\Upr4\Upr4\obj\Debug\net8.0\refint\Upr4.dll
+D:\Programming\CS\Upr4\Upr4\obj\Debug\net8.0\Upr4.pdb
+D:\Programming\CS\Upr4\Upr4\obj\Debug\net8.0\Upr4.genruntimeconfig.cache
+D:\Programming\CS\Upr4\Upr4\obj\Debug\net8.0\ref\Upr4.dll
